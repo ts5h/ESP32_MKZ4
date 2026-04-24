@@ -1,6 +1,6 @@
 # ESP32 MKZ4
 Customized MKZ4 Firmware for ESP32 (**NOT** for ESP8266).  
-This is based on `cerevo/MKZ4`, but I re-built using a discrete setup.  
+This is based on `cerevo/MKZ4`, but I re-built it using nearly a discrete setup.  
 https://github.com/cerevo/MKZ4  
 
 ### TAMIYA Wild Mini 4WD
